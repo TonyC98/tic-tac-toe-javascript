@@ -11,3 +11,14 @@ body {
     grid-template-rows: 100px 100px 100px;
     cursor: pointer;
 }
+
+.tile {
+    color: greenyellow;
+    margin: 10px;
+    background-color: grey;
+    font-size: 2em;
+}
+
+h1 {
+    color: greenyellow;
+}
