@@ -57,6 +57,13 @@ body {
     width: 4px;
     left: 15%;
 }
+
+.strike-column-2 {
+    height: 100%;
+    width: 4px;
+    left: 48%;
+}
+
 h1 {
     color: greenyellow;
 }
