@@ -78,6 +78,14 @@ body {
     transform: skewY(45deg);
 }
 
+.strike-diagonal-2 {
+    height: 4px;
+    width: 90%;
+    top: 50%;
+    left: 5%;
+    transform: skewY(-45deg);
+}
+
 h1 {
     color: greenyellow;
 }
