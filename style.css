@@ -89,3 +89,11 @@ body {
 h1 {
     color: greenyellow;
 }
+
+#game-over-area {
+    text-align: center;
+    border: indigo 8px solid;
+    padding: 50px;
+    width: 50%;
+    margin-top: 50px;
+}
