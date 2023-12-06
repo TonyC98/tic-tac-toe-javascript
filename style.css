@@ -103,3 +103,11 @@ h2 {
     font-size: 2em;
     margin-top: 0px;
 }
+
+button {
+    background-color: transparent;
+    color: greenyellow;
+    border: greenyellow 1px solid;
+    padding: 10px;
+    font-size: 1.5em;
+}
