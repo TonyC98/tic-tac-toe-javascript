@@ -88,6 +88,8 @@ body {
 
 h1 {
     color: greenyellow;
+    font-size: 2em;
+    margin-top: 0px;
 }
 
 #game-over-area {
