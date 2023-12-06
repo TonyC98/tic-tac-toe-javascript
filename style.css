@@ -88,8 +88,6 @@ body {
 
 h1 {
     color: greenyellow;
-    font-size: 2em;
-    margin-top: 0px;
 }
 
 #game-over-area {
@@ -98,4 +96,10 @@ h1 {
     padding: 50px;
     width: 50%;
     margin-top: 50px;
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 2em;
+    margin-top: 0px;
 }
